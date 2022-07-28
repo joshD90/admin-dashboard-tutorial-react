@@ -5,6 +5,7 @@
   position: sticky;
   top: 50px;
   left: 0;
+  z-index: 1;
 }
 
 .sidebarWrapper {

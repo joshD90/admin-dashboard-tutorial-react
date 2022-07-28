@@ -2,6 +2,9 @@ import React, { useState } from "react";
 import "./home.css";
 import FeaturedInfo from "../../components/featuredInfo/FeaturedInfo";
 import Chart from "../../components/chart/Chart";
+import { userData } from "../../dummyData";
+import WidgetSmall from "../../components/widgetSmall/WidgetSmall";
+import WidgetLarge from "../../components/widgetLarge/WidgetLarge";
 
 function Home() {
   const revenueInfo = {
@@ -18,7 +21,11 @@ function Home() {
         <FeaturedInfo content={cost} />
         <FeaturedInfo content={cost} />
       </div>
-      <Chart />
+      <Chart data={userData} title="User Analytics" grid dataKey="activeUser" />
+      <div className="homeWidgets">
+        <WidgetSmall />
+        <WidgetLarge />
+      </div>
     </div>
   );
 }
