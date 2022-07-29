@@ -150,3 +150,117 @@ export const userRows = [
     transaction: "$120.00",
   },
 ];
+
+export const productData = [
+  {
+    name: "Jan",
+    Sales: 4000,
+  },
+  {
+    name: "Feb",
+    Sales: 3000,
+  },
+  {
+    name: "Mar",
+    Sales: 2500,
+  },
+];
+
+export const productRows = [
+  {
+    id: 1,
+    productName: "Apple Airpods",
+    img: "https://www.apple.com/newsroom/images/product/airpods/standard/Apple_AirPods-3rd-gen_hero_10182021_inline.jpg.slideshow-xlarge.jpg",
+    stock: 123,
+    status: "active",
+    price: "$120.00",
+  },
+  {
+    id: 2,
+    productName: "Apple Airpods",
+    img: "https://www.apple.com/newsroom/images/product/airpods/standard/Apple_AirPods-3rd-gen_hero_10182021_inline.jpg.slideshow-xlarge.jpg",
+    stock: 123,
+    status: "active",
+    price: "$120.00",
+  },
+  {
+    id: 3,
+    productName: "Apple Airpods",
+    img: "https://www.apple.com/newsroom/images/product/airpods/standard/Apple_AirPods-3rd-gen_hero_10182021_inline.jpg.slideshow-xlarge.jpg",
+    stock: 123,
+    status: "active",
+    price: "$120.00",
+  },
+  {
+    id: 4,
+    productName: "Apple Airpods",
+    img: "https://www.apple.com/newsroom/images/product/airpods/standard/Apple_AirPods-3rd-gen_hero_10182021_inline.jpg.slideshow-xlarge.jpg",
+    stock: 123,
+    status: "active",
+    price: "$120.00",
+  },
+  {
+    id: 5,
+    productName: "Apple Airpods",
+    img: "https://www.apple.com/newsroom/images/product/airpods/standard/Apple_AirPods-3rd-gen_hero_10182021_inline.jpg.slideshow-xlarge.jpg",
+    stock: 123,
+    status: "active",
+    price: "$120.00",
+  },
+  {
+    id: 6,
+    productName: "Apple Airpods",
+    img: "https://www.apple.com/newsroom/images/product/airpods/standard/Apple_AirPods-3rd-gen_hero_10182021_inline.jpg.slideshow-xlarge.jpg",
+    stock: 123,
+    status: "active",
+    price: "$120.00",
+  },
+  {
+    id: 7,
+    productName: "Apple Airpods",
+    img: "https://www.apple.com/newsroom/images/product/airpods/standard/Apple_AirPods-3rd-gen_hero_10182021_inline.jpg.slideshow-xlarge.jpg",
+    stock: 123,
+    status: "active",
+    price: "$120.00",
+  },
+  {
+    id: 8,
+    productName: "Apple Airpods",
+    img: "https://www.apple.com/newsroom/images/product/airpods/standard/Apple_AirPods-3rd-gen_hero_10182021_inline.jpg.slideshow-xlarge.jpg",
+    stock: 123,
+    status: "active",
+    price: "$120.00",
+  },
+  {
+    id: 9,
+    productName: "Apple Airpods",
+    img: "https://www.apple.com/newsroom/images/product/airpods/standard/Apple_AirPods-3rd-gen_hero_10182021_inline.jpg.slideshow-xlarge.jpg",
+    stock: 123,
+    status: "active",
+    price: "$120.00",
+  },
+  {
+    id: 10,
+    productName: "Apple Airpods",
+    img: "https://www.apple.com/newsroom/images/product/airpods/standard/Apple_AirPods-3rd-gen_hero_10182021_inline.jpg.slideshow-xlarge.jpg",
+    stock: 123,
+    status: "active",
+    price: "$120.00",
+  },
+  {
+    id: 11,
+    productName: "Apple Airpods",
+    img: "https://www.apple.com/newsroom/images/product/airpods/standard/Apple_AirPods-3rd-gen_hero_10182021_inline.jpg.slideshow-xlarge.jpg",
+    stock: 123,
+    status: "active",
+    price: "$120.00",
+  },
+  {
+    id: 12,
+    productName: "Apple Airpods",
+    img: "https://www.apple.com/newsroom/images/product/airpods/standard/Apple_AirPods-3rd-gen_hero_10182021_inline.jpg.slideshow-xlarge.jpg",
+    stock: 123,
+    status: "active",
+    price: "$120.00",
+  },
+];
